@@ -6,5 +6,11 @@
 - 20:00 ~ 21:00 : 알리미 1차 세션
 
 ## 📖 To-Do Study
+- Swift 강좌 수강
+    - ch02. 첫 앱 만들기(08~21)
+    - ch03. 스위프트 기초
+    - ch04. 스위프트 Flow Control 
+    - ch05. 스위프트 Function and Optional
+- React?
 
 ## ✨ What was special today?
