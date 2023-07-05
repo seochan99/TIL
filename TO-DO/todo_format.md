@@ -13,4 +13,8 @@
     - ch05. 스위프트 Function and Optional
 - React?
 
+- Swift Udemy
+    - 142 ~ 150
+
 ## ✨ What was special today?
+
